@@ -1,8 +1,5 @@
-#Harris Corner Detection
-
 import cv2
 import numpy as np
-import random
 
 imgs = ['exemplo1.jpg', 'exemplo2.jpg', 'exemplo3.jpg']
 
@@ -63,4 +60,4 @@ def shi_tomasi():
 
 
 # exec_harris()
-shi_tomasi()
+# shi_tomasi()
